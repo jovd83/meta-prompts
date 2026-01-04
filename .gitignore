@@ -1,0 +1,13 @@
+# System Files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Environment
+.env
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
