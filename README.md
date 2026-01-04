@@ -42,14 +42,14 @@ A collection of advanced meta-prompts designed to generate, optimize, and evalua
 |-------------|:-------:|-------------|
 | **[Template Converter (JSON/Jinja2)](prompts/template-conversion-to-json-or-jinja2_v2.md)** | v2 | Converts natural language prompts into structured JSON or Jinja2 templates. |
 
-## � PromptHive import
+## 📦 PromptHive import
 
 This repository also contains a full import of the prompt collection in JSON format, ready for import into [PromptHive](https://github.com/jovd83/prompthive).
 
 *   **File:** [`prompthiveJson/meta_prompts.json`](prompthiveJson/meta_prompts.json)
 *   **Usage:** You can import this file directly into your PromptHive instance to restore or duplicate the entire "Meta Prompts" collection with all its metadata, tags, and structure preserved.
 
-## �🚀 Usage
+## 🚀 Usage
 
 Select a prompt from the collection above to help you design, refine, or analyze your own LLM interactions. Each file contains detailed instructions and context settings.
 
