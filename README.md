@@ -4,6 +4,13 @@ A collection of advanced meta-prompts designed to generate, optimize, and evalua
 
 ## 📂 Prompt Collection
 
+### 🧭 The Navigator
+*Prompts that guide you to the right framework for your specific needs.*
+
+| Prompt Name | Version | Description |
+|-------------|:-------:|-------------|
+| **[Meta-Prompt Framework Selector](prompts/meta-prompt-framework-selector_v3.md)** | v3 | Analyzes your intent and selects the perfect framework from the library. |
+
 ### ⚙️ The Generator
 *Prompts focused on creating high-quality, agentic, and structured outputs.*
 
